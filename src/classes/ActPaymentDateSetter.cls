@@ -10,6 +10,6 @@ global class ActPaymentDateSetter implements Schedulable {
 		}
 		update invoicesToUpdate;
 
-		System.debug('test');
+		System.debug('test2');
 	}
 }
